@@ -1,0 +1,3 @@
+set solib-search-path D:/Develop/Eclipse/CamDrm/obj/local/armeabi
+directory C:/ndk/platforms/android-9/arch-arm/usr/include D:/Develop/Eclipse/CamDrm/jni/openssl D:/Develop/Eclipse/CamDrm/jni/openssl/include D:/Develop/Eclipse/CamDrm/jni/openssl/include/openssl D:/Develop/Eclipse/CamDrm/jni/openssl/crypto D:/Develop/Eclipse/CamDrm/jni/openssl/crypto/aes C:/ndk/sources/cxx-stl/stlport/stlport C:/ndk/sources/cxx-stl/system/include
+file D:/Develop/Eclipse/CamDrm/obj/local/armeabi/app_process
